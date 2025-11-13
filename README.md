@@ -135,5 +135,23 @@ Blandford, R. D., \& Znajek, R. L. (1977). \textit{Electromagnetic extraction of
 Bardeen, J. M. (1972). \textit{Rotating black holes}. \href{https://doi.org/10.1038/235037a0}{Nature, 235, 37–40}.
 
 \end{thebibliography}
+# Directional Flare Dynamics in Plasma Vortices: A Thermodynamic Interpretation
+
+## arXiv Submission Package
+
+This repository contains the complete source code for the arXiv preprint submission. All files required for compilation are included.
+
+### Files
+- `main.tex`: LaTeX source (requires RevTeX4-2 class)
+- `figures/frontal_geometry.png`: Figure 1 - Narrow emission
+- `figures/lateral_geometry.png`: Figure 2 - Wide emission
+- `README.md`: This file
+
+### Compilation
+```bash
+pdflatex main.tex
+bibtex main
+pdflatex main.tex
+pdflatex main.tex
 
 \end{document}
