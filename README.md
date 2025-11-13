@@ -1,0 +1,1 @@
+# Directional-Flare-Dynamics-in-Plasma-Vortices-A-Thermodynamic-Interpretation
