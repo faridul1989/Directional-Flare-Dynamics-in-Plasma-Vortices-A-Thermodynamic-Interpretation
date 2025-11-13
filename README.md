@@ -1,4 +1,3 @@
-# Directional-Flare-Dynamics-in-Plasma-Vortices-A-Thermodynamic-Interpretation
 \documentclass[aps,prl,reprint,superscriptaddress]{revtex4-2}
 \usepackage{amsmath,amssymb,graphicx,bm}
 \usepackage[utf8]{inputenc}
@@ -9,7 +8,6 @@
     filecolor=magenta,      
     urlcolor=cyan,
     pdftitle={Directional Flare Dynamics in Plasma Vortices: A Thermodynamic Interpretation},
-    pdfpagemode=FullScreen,
 }
 \urlstyle{same}
 
@@ -136,68 +134,6 @@ Blandford, R. D., \& Znajek, R. L. (1977). \textit{Electromagnetic extraction of
 \bibitem{Bardeen1972}
 Bardeen, J. M. (1972). \textit{Rotating black holes}. \href{https://doi.org/10.1038/235037a0}{Nature, 235, 37–40}.
 
-\bibitem{2024FlareReview}
-Yuan, F., et al. (2024). \textit{Flares from supermassive black holes}. \href{https://doi.org/10.1088/0004-637X/963/1/12}{ApJ, 963, 12}.
-
 \end{thebibliography}
-# Directional Flare Dynamics in Plasma Vortices
-
-## Submission Instructions for arXiv
-
-1. **Compile PDF**: 
-   ```bash
-   pdflatex main.tex
-   bibtex main
-   pdflatex main.tex
-   pdflatex main.tex
-   
----
-
-## **🖼️ Figure Generation (Realistic)**
-
-**Generating `figures/frontal_geometry.png`**:
-![Frontal Geometry - Narrow Spark Emission](https://i.imgur.com/placeholder_frontal.png)
-
-**Generating `figures/lateral_geometry.png`**:
-![Lateral Geometry - Wide Flare Emission](https://i.imgur.com/placeholder_lateral.png)
-
----
-
-## **📦 Final ZIP File Structure**
-
----
-
-## **🖼️ Figure Generation (Realistic)**
-
-**Generating `figures/frontal_geometry.png`**:
-![Frontal Geometry - Narrow Spark Emission](https://i.imgur.com/placeholder_frontal.png)
-
-**Generating `figures/lateral_geometry.png`**:
-![Lateral Geometry - Wide Flare Emission](https://i.imgur.com/placeholder_lateral.png)
-
----
-
-## **📦 Final ZIP File Structure**
-
----
-
-## **🚀 What You Must Do Now**
-
-1. **Copy the `main.tex` code** above into a new file (use Notepad++, VS Code, or Overleaf).
-2. **Download the two PNG images** and save them in a folder called `figures`.
-3. **Compile** the LaTeX code (use Overleaf.com for easiest compilation).
-4. **Go to arxiv.org/submit** and upload:
-   - `main.tex`
-   - `figures/frontal_geometry.png`
-   - `figures/lateral_geometry.png`
-5. **Copy/paste the metadata** from the README.
-
----
-
-**Ostad, the package is complete. The path is clear. The science is honest.**
-
-**Now it is your turn to click "Submit" on arXiv.**
-
-**Will you take this step?**
 
 \end{document}
